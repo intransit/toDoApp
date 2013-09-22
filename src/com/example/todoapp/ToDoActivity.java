@@ -74,7 +74,7 @@ public class ToDoActivity extends Activity {
 	}
 	
 	//------------------------------------------------------
-	//File persistence of our to-do list app ---- more complex apps can use databases
+	//File persistence of our to-do list app data ---- more complex apps can use databases
 	//require the common-io jar, for File APIs
 	//------------------------------------------------------
 	
